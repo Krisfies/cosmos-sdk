@@ -4,7 +4,7 @@
 package testdata
 
 import (
-	context "context"
+	context "context
 	fmt "fmt"
 	_ "github.com/gogo/protobuf/gogoproto"
 	grpc1 "github.com/gogo/protobuf/grpc"
